@@ -1,42 +1,46 @@
 # 🎵 VibeSymphony: Find Music That Actually Gets You
 
-> *"You know that feeling when you just can't find the right music? We built this for that."*
+> *"You know that feeling when you just can't find the right music? I built this for that."*
 
 VibeSymphony is an AI-powered web application that understands your complex emotions and finds Spotify playlists that actually match your vibe. No categories, no checkboxes – just describe how you're feeling in your own words.
 
-## 🌟 Why This Exists
+## Live Demo
+
+[Check out the live app on Netlify](https://vibesymphony.netlify.app/)
+
+## Why This Exists
 
 Sometimes you're feeling "tired but hopeful" or "anxiously excited about tomorrow" – those complex, in-between emotions that don't fit into simple categories. Regular music apps just don't get these nuanced feelings that make you... well, you.
 
-We built this because we were tired of spending forever scrolling through Spotify, trying to find something that matched our exact mood. Your feelings are complex, and your music should understand that.
+I built this because I was tired of spending forever scrolling through Spotify, trying to find something that matched my exact mood. Your feelings are complex, and your music should understand that.
 
-## ✨ Features
+## Features
 
-### 🧠 **Smart Mood Understanding**
+### **Smart Mood Understanding**
 - **Natural conversation**: Just type how you're feeling – "overwhelmed but trying to stay positive"
 - **Complex emotions**: Understands mixed feelings and subtle emotional states
 - **Real understanding**: Reads between the lines like a friend who really listens
 - **No categories**: Your feelings don't fit in boxes, so we don't use them
 
-### 🎼 **Perfect Playlist Matching**
+### **Perfect Playlist Matching**
 - **AI-powered discovery**: Uses Google's Gemini AI to understand your mood
 - **Spotify integration**: Searches through millions of real playlists
 - **Actual matches**: Not just close – that "how did they know?" kind of perfect
 - **Safe content**: Family-friendly playlists that match your vibe
 
-### 💾 **Personal Music Journal**
+### **Personal Music Journal**
 - **Save discoveries**: Keep track of your favorite mood-music combinations
 - **Your journey**: See how your musical tastes evolve with your feelings
 - **Private & secure**: Only you can see your saved vibes
 - **No judgment**: A safe space for all your moods
 
-### 🎨 **Feels Good to Use**
+### **Feels Good to Use**
 - **Works everywhere**: Looks great on your phone, tablet, or computer
 - **Smooth interactions**: Animations that feel natural and responsive
 - **Easy to use**: Designed so anyone can find their perfect playlist
 - **Beautiful design**: Clean, modern interface that doesn't get in the way
 
-## 🏗️ Architecture & Technology Stack
+## Architecture & Technology Stack
 
 ### **Frontend**
 - **React 18** with TypeScript for type-safe, modern UI development
@@ -59,7 +63,7 @@ We built this because we were tired of spending forever scrolling through Spotif
 - **ESLint** for code quality and consistency
 - **PostCSS & Autoprefixer** for CSS optimization
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -293,7 +297,7 @@ const psychologicalMoodMap = {
 - **Safety settings** enabled for Gemini AI
 - **Response validation** prevents hallucinations
 
-## 🚀 Deployment
+## Deployment
 
 ### **Production Deployment**
 
@@ -323,10 +327,10 @@ And in Supabase Dashboard:
 
 ## 🤝 Contributing
 
-We'd love your help making this better! Here's how you can contribute:
+I'd love your help making this better! Here's how you can contribute:
 
 ### **Types of Contributions**
-- 🐛 **Fix bugs** – Help us squash those pesky issues
+- 🐛 **Fix bugs** – Help squash those pesky issues
 - ✨ **Add features** – Got an idea that would make this better?
 - 🎨 **Improve design** – Make it even more beautiful and usable
 - 📚 **Update docs** – Help others understand how to use this
@@ -357,16 +361,6 @@ fix(auth): resolve login redirect issue
 docs(readme): update setup instructions
 style(ui): improve button hover animations
 ```
-
-## 🎯 Roadmap
-
-### **What's Next**
-- [ ] **Better mood understanding** – Even smarter AI that gets your feelings
-- [ ] **More music sources** – Beyond Spotify to Apple Music, YouTube, etc.
-- [ ] **Mood patterns** – Show you how your musical tastes change over time
-- [ ] **Share your vibes** – Let friends discover your mood-music combinations
-- [ ] **Mobile app** – Take your vibe finder everywhere
-- [ ] **Playlist creation** – Generate custom playlists, not just find existing ones
 
 ## 🔧 Troubleshooting
 
@@ -402,10 +396,6 @@ style(ui): improve button hover animations
    - Browser and device information
    - Console errors (if any)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Google Gemini AI** for advanced natural language processing
@@ -419,7 +409,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If this helped you find some great music, consider:
 
 - ⭐ **Starring** the repository
-- 🐛 **Telling us about bugs** or ideas for improvement
+- 🐛 **Telling me about bugs** or ideas for improvement
 - 🤝 **Contributing** if you're into that
 - 💬 **Sharing** with friends who also struggle to find the right music
 
@@ -427,6 +417,6 @@ If this helped you find some great music, consider:
 
 **VibeSymphony** - *Finally, music that gets your weird, specific moods* 🎵
 
-Made with 💜 by people who spend way too much time looking for the perfect song.
+Made with 💜 by someone who spends way too much time looking for the perfect song.
 
 ---
